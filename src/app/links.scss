@@ -1,0 +1,16 @@
+
+.btn{
+    @apply px-[10px];
+    @apply shadow-lg;
+    @apply py-[5px];
+    @apply rounded-md;
+    text-transform: capitalize;
+}
+.link{
+
+   @apply px-2;
+   @apply hover:text-blue-500;
+   @apply hover:underline;
+
+
+  }
