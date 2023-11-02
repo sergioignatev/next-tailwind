@@ -24,13 +24,13 @@ export default function RootLayout({
         <div className="flex">
           <div className="logo">
           <a href="/">
-            <img className='h-[30px] shadow-lg' src='https://sergioignatev.github.io/myportfolio/static/media/html.2bbdc7adf4a0df576179.png' alt="alt" />
+            <img className='h-[30px] shadow-lg' src='https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600' alt="alt" />
         </a>
         </div>
 <div className="px-6">
 <Link href="/"className='link '>Home</Link>
 <Link href="/tailwind"className='link'>Tailwind</Link>
-<Link href="#"className='link'>Api</Link>
+<Link href="/api"className='link'>Api</Link>
 <Link href="#"className='link'>About</Link>
 </div>
 </div>
