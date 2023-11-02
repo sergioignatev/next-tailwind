@@ -24,7 +24,7 @@ export default function RootLayout({
         <div className="flex">
           <div className="logo">
           <a href="/">
-            <img className='h-[30px] shadow-lg' src='https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600' alt="alt" />
+           
         </a>
         </div>
 <div className="px-6">
